@@ -6,16 +6,16 @@ You can click the Preview link to take a look at your changes.
 
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Tonmoy Kumar Roy
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Puskor roy ple
 =================================================================================================================================
 
 Software Engineer
 ----------------------------
 
-I am a software engineer proficient in Javascript, Node, ES6, React, Express, SQL and Mongo.
+I am a software engineer proficient in Javascript, Node, ES6, React, Express,djnago,SQL and Mongo.
 
-* 🌍  I'm based in Dhaka
-* ✉️  You can contact me at [tonmoykumarroy6@gmail.com](mailto:tonmoykumarroy6@gmail.com)
+* 🌍  I'm based in Rangpur
+* ✉️  You can contact me at [puskarkumarroy329@gmail.com](mailto:puskarkumarroy329@gmail.com)
 * 🧠  I'm learning about Smart Contracts
 
 
